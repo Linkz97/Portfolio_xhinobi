@@ -100,11 +100,6 @@ This Is my portfolio while working on xhinobi
   ---
 
   ### 📱 Toy8 Screening & Intervention 👶
-
-  <p align="center">
-    <img src="
-        https://tools-competition.org/wp-content/uploads/2023/08/SquareLogo-Shun-Matsuzaka.png" alt="Toy8" width="600"/>
-  </p>
   
   **Status:** 
   Completed 🟢
