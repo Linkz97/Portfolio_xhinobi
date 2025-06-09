@@ -103,7 +103,7 @@ This Is my portfolio while working on xhinobi
 
   <p align="center">
     <img src="
-        https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5gLA5LiiYYSpJHi9lkSCwfcu9pSGI_YFuLA&s" alt="Toy8" width="600"/>
+        https://tools-competition.org/wp-content/uploads/2023/08/SquareLogo-Shun-Matsuzaka.png" alt="Toy8" width="600"/>
   </p>
   
   **Status:** 
