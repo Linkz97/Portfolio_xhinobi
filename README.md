@@ -100,10 +100,6 @@ This Is my portfolio while working on xhinobi
 
   ### 📱 Toy8 Screening & Intervention 👶
   
-  <p align="center">
-    <img src="http://thecyberstrike.com/wp-content/uploads/2024/10/CyberStrike-RGB-v-2-Small.png" alt="Mech Craft" width="600"/>
-  </p>
-  
   **Status:** 
   Completed 🟢
   
