@@ -5,7 +5,7 @@ This Is my portfolio while working on xhinobi
 
   ### 🤖 Mech Craft ⚔️ (Multiplayer NFT Mobile Game)  
   <p align="center">
-    <img src="https://mechcraft.world/wp-content/uploads/2021/11/Title_MechCraft_01-300x150.png" alt="Mech Craft" width="500"/>
+    <img src="https://mechcraft.world/wp-content/uploads/2021/11/Title_MechCraft_01-300x150.png" alt="Mech Craft" width="300"/>
   </p>
 
   **Status:** 
@@ -38,7 +38,7 @@ This Is my portfolio while working on xhinobi
 
   ## 🌠 Meteorn Run 🪙 (Hyper-Casual NFT Mobile Game)
   <p align="center">
-    <img src="https://meteorrun.xhinobi.com/images/logo.png" alt="Meteorn Run" width="400"/>
+    <img src="https://meteorrun.xhinobi.com/images/logo.png" alt="Meteorn Run" width="300"/>
   </p>
 
   **Status:** 
@@ -63,7 +63,7 @@ This Is my portfolio while working on xhinobi
   **Links:**  
   - 🌐 [Official Website](https://meteornrun.io/)  
   - 🌐 [Game Portal](https://meteorrun.xhinobi.com/)  
-  - 📱 [App Store (iOS)](https://apps.apple.com/ca/app/meteorn-run/id6479972400)  
+  - 📱 [App Store (iOS)](https://apps.apple.com/ca/app/meteorn-run/id6479972300)  
   - 🤖 [Google Play (Android)](https://play.google.com/store/apps/details?id=com.MeteorRunDeveloper.MeteorRun)  
   
   ---
@@ -71,7 +71,7 @@ This Is my portfolio while working on xhinobi
   ### 💻 Cyber Strike ⚔️
 
   <p align="center">
-    <img src="http://thecyberstrike.com/wp-content/uploads/2024/10/CyberStrike-RGB-v-2-Small.png" alt="Mech Craft" width="400"/>
+    <img src="http://thecyberstrike.com/wp-content/uploads/2024/10/CyberStrike-RGB-v-2-Small.png" alt="Mech Craft" width="300"/>
   </p>
 
   
@@ -152,7 +152,7 @@ This Is my portfolio while working on xhinobi
   ### 🏇 Derby Farm 💖
   
   <p align="center">
-    <img src="https://derbyfarm.io/assets/images/main_logo.png" alt="Derby Farm" width="400"/>
+    <img src="https://derbyfarm.io/assets/images/main_logo.png" alt="Derby Farm" width="300"/>
   </p>
 
   **Status:** 
@@ -208,7 +208,7 @@ This Is my portfolio while working on xhinobi
   ### 🤔 Edu King ❔
 
   <p align="center">
-    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/53/4b/15/534b15e3-19c0-6b95-baa1-5d7b78d8abf1/source/512x512bb.jpg" alt="Edu King" width="400"/>
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/53/4b/15/534b15e3-19c0-6b95-baa1-5d7b78d8abf1/source/512x512bb.jpg" alt="Edu King" width="300"/>
   </p>
 
   **Status:** 
