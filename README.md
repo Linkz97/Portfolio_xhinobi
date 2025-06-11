@@ -67,7 +67,7 @@ This Is my portfolio while working on xhinobi
   ---
 
 
-
+--- 🌟 Next Project 🌟 ---
   ## 🌠 Meteorn Run 🪙 (Hyper-Casual NFT Mobile Game)
   <p align="center">
     <img src="https://meteorrun.xhinobi.com/images/logo.png" alt="Meteorn Run" width="300"/>
