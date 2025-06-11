@@ -18,16 +18,16 @@ This Is my portfolio while working on xhinobi
   - Artist : 2
   - Programmer : 2 (Me & Programmer Lead)
 
-  **After Publshed:**
+  After Publshed:
   - Artist : 2
   - Programmer : 5 (3 interns)
   - Backend Team : 3
 
-  **My Task:** \n 
+  **My Task:**  
   Developed the game from scratch with my team lead until the game is published and stabled, then only we start to put more people (full time & intern) and guide them to continue the project.
 
-  **Target Platform:** 
-  - Mobile
+  **Target Platform:**  
+  Mobile
   
   **Description:**  
   A real-time multiplayer arena battling game with NFT integration, deck crafting, diverse skill systems, and unique stats for each mech. Focused on server optimization, multiplayer networking, and gameplay feature implementation.
