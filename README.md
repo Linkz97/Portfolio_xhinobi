@@ -14,16 +14,28 @@ This Is my portfolio while working on xhinobi
   **My Role:** 
   Unity Developer -> Lead Developer
 
+  **Team Size:**
+  Artist : 2
+  Programmer : 2 (Me & Programmer Lead)
+
+  After Published:
+  Artist : 2
+  Programmer : 5 (3 interns)
+  Backend Team : 3
+
+  **My Task:** 
+  Developed the game from scratch with my team lead until the game is published and stabled, then only we start to put more people (full time & intern) and guide them to continue the project.
+
   **Target Platform:** 
   Mobile
   
   **Description:**  
-  A real-time multiplayer arena battling game with NFT integration, deck crafting, diverse skill systems, and unique stats for each mech. Focused on server optimization, multiplayer   networking, and gameplay feature implementation.
+  A real-time multiplayer arena battling game with NFT integration, deck crafting, diverse skill systems, and unique stats for each mech. Focused on server optimization, multiplayer networking, and gameplay feature implementation.
   
   **Highlights:**
   - Firebase Analytics
   - SmartFox Server
-  - Real-time multiplayer
+  - Unity Addressable
   - server optimization
   - NFT Games
   - AI & Automation
@@ -47,6 +59,13 @@ This Is my portfolio while working on xhinobi
   **Role:** 
   Senior/Lead Developer
 
+  **Team Size:**
+  Artist : 1
+  Programmer : 3 
+
+  **My Task:** 
+  Developed the entire core system, gameplay which follow all client's requirement wanted it to look like "Subway surfer" & setup & deploy the game server.
+  
   **Target Platform:** 
   Mobile
   
@@ -74,13 +93,21 @@ This Is my portfolio while working on xhinobi
     <img src="http://thecyberstrike.com/wp-content/uploads/2024/10/CyberStrike-RGB-v-2-Small.png" alt="Mech Craft" width="300"/>
   </p>
 
-  
   **Status:** 
   OnGoing🟢
 
   **My Role:** 
   Senior/Lead Developer
 
+  **Team Size:**
+  Designer : 2
+  Artist : 5 (3 full time + 2 intern)
+  Programmer : 7 (3 fulltime + 4 intern)  
+
+  **My Task:** 
+  Developed entire backend system for the system (Register, Server, Games, Data Handling, Game Settings, Dynamic Configuration, etc)
+  I Developed 7+ Game & 2 ultilies scene, while my team working on major 3D game which team (2 artist + 2FT + 1 intern) and another intern help me to developed other games.
+  
   **Target Platform:** 
   PC
   
@@ -88,11 +115,11 @@ This Is my portfolio while working on xhinobi
   Immersive Interactive Games that use Input of Touch, Step, Voices for the gameplay. Different Games required different skillset like precision, reflex, memory, Aim, prediction, teamwork and etc in order to beat the levels and achieve for the high score.
   
   **Highlights:**  
-  - All games communicate with Arduino/ Sensor Hardware  
+  - Arduino/ Sensor Hardware
+  - Http Server based Communication  
   - 2D & 3D Game Development
-  - UI/UX polish
+  - Oway Technology
   - Floor Detection & Wall Detection detection gameplay
-  - I Implemented Entire Fronted & Backend systems (Register, Server, Games, Data Handling, etc)
 
   **Links:**  
   - 🌐 [Official Website](https://thecyberstrike.com/)  
@@ -106,6 +133,16 @@ This Is my portfolio while working on xhinobi
   
   **My Role:** 
   Lead Developer x Project Supervisor
+
+  **Team Size:**
+  PM : 1
+  Artist : 1
+  Programmer : 3  
+  Backend Team : 3
+  
+  **My Task:** 
+  Rush a Quick Demo for first version, then my team continue to develop the mini game for the clients
+  Giving Professional Solution based to the team on client needs.
 
   **Target Platform:** 
   Mobile
@@ -132,6 +169,16 @@ This Is my portfolio while working on xhinobi
   **My Role:** 
   Senior/Lead Developer
 
+  **Team Size:**
+  Designer : 2
+  Artist : 2
+  Programmer : 3+-
+  
+  **My Task:** 
+  Developed the structure that work within the backend team.
+  Developed a function work with other department programmer & intergration with Arduino.
+  Guide & lead the team to finish the game within a short period
+  
   **Target Platform:** 
   PC
   
@@ -161,6 +208,16 @@ This Is my portfolio while working on xhinobi
   **My Role:** 
   Senior/Lead Developer
 
+  **Team Size:**
+  Artist : 2
+  Programmer : 3+-
+  
+  **My Task:** 
+  Develop the backend Server for the game, Restful API & intergration with other team programmer to get data.
+  Developed the horse racing system and pre-calculated result based on the design.
+  Developed the system (Feeding, Racing, Breeding)
+  Game Optimization
+  
   **Target Platform:** 
   Mobile
   
@@ -171,7 +228,7 @@ This Is my portfolio while working on xhinobi
   - Mobile optimization 
   - 3D environment optimization
   - NFT Games
-  - RestFul's API with ASP.net
+  - RestFul's API with ASP.net & SmartFox Server
 
     **Links:**  
   - 🌐 [Official Website](https://derbyfarm.io/#/)
@@ -187,6 +244,13 @@ This Is my portfolio while working on xhinobi
   **My Role:** 
   Unity Developer
 
+  **Team Size:**
+  Programmer : 3
+  
+  **My Task:** 
+  I'm fully incharge to multiplayer game server on SmartFox Server. which developed the Login, MatchMaking, Player Data handling, gameplay logic on server and etc.
+  I'm also doing the game handling when received server callback to control the game flow.
+  
   **Target Platform:** 
   PC
   
@@ -217,6 +281,14 @@ This Is my portfolio while working on xhinobi
   **My Role:** 
   Junior Game Developer
 
+  **Team Size:**
+  Designer : 1
+  Artist : 2+-
+  Programmer : 4
+  
+  **My Task:** 
+  I'm doing game server (gameplay result calculation, game sync & etc). On Unity, I had done the new feature for buff update and smoother game control(screen swiping movement) 
+  
   **Target Platform:** 
   Mobile
   
