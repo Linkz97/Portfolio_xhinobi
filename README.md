@@ -58,12 +58,13 @@ This Is my portfolio while working on xhinobi
     
   --- 
   
-**Links:**  
+  **Links:**  
   - 🌐 [Official Website](https://mechcraft.world/)  
   - 🌐 [Game Portal](https://play.mechcraft.world/home)  
   - 📱 [App Store (iOS)](https://apps.apple.com/my/app/mechcraft/id6444942677)  
   - 🤖 [Google Play (Android)](https://play.google.com/store/apps/details?id=com.Xhinobi.MechCraft&hl=en)  
   
+  ---
   ---
 
   ## 🌠 Meteorn Run 🪙 (Hyper-Casual NFT Mobile Game)
@@ -117,6 +118,7 @@ This Is my portfolio while working on xhinobi
   - 🤖 [Google Play (Android)](https://play.google.com/store/apps/details?id=com.MeteorRunDeveloper.MeteorRun)
     
   ---
+  ---
 
   ### 💻 Cyber Strike ⚔️
 
@@ -156,54 +158,56 @@ This Is my portfolio while working on xhinobi
   - 🌐 [Official Website](https://thecyberstrike.com/)  
 
   ---
+  ---
   
-### 🧸 Toy8 – Intervention & Screening Apps
+  ### 🧸 Toy8 – Intervention & Screening Apps
+  
+  **Status:** 🟢 Delivered & Maintained  
+  **Role:** Lead Developer × Project Supervisor  
+  **Target Platform:** 📱 Mobile  
+  
+  ---
+  
+  #### 👥 Team Composition
+  
+  - 👨‍💼 Project Manager: 1  
+  - 🎨 Artist: 1  
+  - 💻 Programmers: 3  
+  - 🔧 Backend Engineers: 3  
+  
+  ---
+  
+  #### 🛠️ My Responsibilities
+  
+  - Delivered a rapid prototype to showcase a working demo for client approval.  
+  - Supervised development of 40+ mini-games tailored to educational goals.  
+  - Provided technical architecture and scalable solutions based on client requirements.  
+  - Oversaw integration between game client and backend CMS for dynamic customization.
+  
+  ---
+  
+  #### 🎮 Game Description
+  
+  Toy8 Intervention & Screening Apps are educational mobile apps used by teachers and program designers to create personalized learning games. These games support skill development in areas like language, logic, and math for children of different age groups and needs.
+  
+  ---
+  
+  #### 🌟 Tech Highlights
+  
+  - 40+ mini-games with modular design  
+  - CMS-integrated game flow and configuration  
+  - Adaptable mechanics to suit various student profiles  
+  - Backend-driven customization for educators  
+  
+  ---
+  
+  #### 🔗 Links
+  
+  - 🌐 [Official Website](https://www.toyeight.com/)  
+  - 🤖 [Google Play – Intervention App](https://play.google.com/store/apps/details?id=com.Toy8.Toy8Intervention)  
+  - 🤖 [Google Play – Screening App](https://play.google.com/store/apps/details?id=com.Toy8.Toy8Screening)
 
-**Status:** 🟢 Delivered & Maintained  
-**Role:** Lead Developer × Project Supervisor  
-**Target Platform:** 📱 Mobile  
-
----
-
-#### 👥 Team Composition
-
-- 👨‍💼 Project Manager: 1  
-- 🎨 Artist: 1  
-- 💻 Programmers: 3  
-- 🔧 Backend Engineers: 3  
-
----
-
-#### 🛠️ My Responsibilities
-
-- Delivered a rapid prototype to showcase a working demo for client approval.  
-- Supervised development of 40+ mini-games tailored to educational goals.  
-- Provided technical architecture and scalable solutions based on client requirements.  
-- Oversaw integration between game client and backend CMS for dynamic customization.
-
----
-
-#### 🎮 Game Description
-
-Toy8 Intervention & Screening Apps are educational mobile apps used by teachers and program designers to create personalized learning games. These games support skill development in areas like language, logic, and math for children of different age groups and needs.
-
----
-
-#### 🌟 Tech Highlights
-
-- 40+ mini-games with modular design  
-- CMS-integrated game flow and configuration  
-- Adaptable mechanics to suit various student profiles  
-- Backend-driven customization for educators  
-
----
-
-#### 🔗 Links
-
-- 🌐 [Official Website](https://www.toyeight.com/)  
-- 🤖 [Google Play – Intervention App](https://play.google.com/store/apps/details?id=com.Toy8.Toy8Intervention)  
-- 🤖 [Google Play – Screening App](https://play.google.com/store/apps/details?id=com.Toy8.Toy8Screening)
-
+  ---
   ---
   
   ### 💣 Bomb Battle ⚔️
@@ -305,7 +309,7 @@ Toy8 Intervention & Screening Apps are educational mobile apps used by teachers 
   - 🌐 [Official Website](https://derbyfarm.io/#/)  
   - 🌐 [Community LinkTree](https://linktr.ee/derbyfarm.io)
 
-  
+  ---
   ---
   
   ### 🐻 Animalia 🃏
@@ -339,6 +343,7 @@ Toy8 Intervention & Screening Apps are educational mobile apps used by teachers 
   - 🌐 [Official Website](https://animalia.games/)) 
   - 🌐 [Youtube - Demo](https://www.youtube.com/watch?v=4ENRDmarIb4)
 
+  ---
   ---
 
 ### 👑 Edu King – Educational Trivia Battle Game
