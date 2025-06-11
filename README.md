@@ -23,7 +23,7 @@ This Is my portfolio while working on xhinobi
   - Programmer : 5 (3 interns)
   - Backend Team : 3
 
-  **My Task:** 
+  **My Task:** \n 
   Developed the game from scratch with my team lead until the game is published and stabled, then only we start to put more people (full time & intern) and guide them to continue the project.
 
   **Target Platform:** 
