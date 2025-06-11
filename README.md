@@ -65,7 +65,8 @@ This Is my portfolio while working on xhinobi
   - 🤖 [Google Play (Android)](https://play.google.com/store/apps/details?id=com.Xhinobi.MechCraft&hl=en)  
   
   ---
-  ---
+
+
 
   ## 🌠 Meteorn Run 🪙 (Hyper-Casual NFT Mobile Game)
   <p align="center">
@@ -118,7 +119,8 @@ This Is my portfolio while working on xhinobi
   - 🤖 [Google Play (Android)](https://play.google.com/store/apps/details?id=com.MeteorRunDeveloper.MeteorRun)
     
   ---
-  ---
+
+
 
   ### 💻 Cyber Strike ⚔️
 
@@ -158,7 +160,8 @@ This Is my portfolio while working on xhinobi
   - 🌐 [Official Website](https://thecyberstrike.com/)  
 
   ---
-  ---
+
+
   
   ### 🧸 Toy8 – Intervention & Screening Apps
   
@@ -310,7 +313,8 @@ This Is my portfolio while working on xhinobi
   - 🌐 [Community LinkTree](https://linktr.ee/derbyfarm.io)
 
   ---
-  ---
+
+  
   
   ### 🐻 Animalia 🃏
 
@@ -344,58 +348,59 @@ This Is my portfolio while working on xhinobi
   - 🌐 [Youtube - Demo](https://www.youtube.com/watch?v=4ENRDmarIb4)
 
   ---
+
+    
+  
+  ### 👑 Edu King – Educational Trivia Battle Game
+  
+    <p align="center">
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/53/4b/15/534b15e3-19c0-6b95-baa1-5d7b78d8abf1/source/512x512bb.jpg" alt="Edu King" width="300"/>
+    </p>
+  
+  **Status:** 🔴 Project Stopped / Shut Down  
+  **Role:** Junior Game Developer  
+  **Target Platform:** 📱 Mobile  
+  
   ---
-
-### 👑 Edu King – Educational Trivia Battle Game
-
-  <p align="center">
-    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/53/4b/15/534b15e3-19c0-6b95-baa1-5d7b78d8abf1/source/512x512bb.jpg" alt="Edu King" width="300"/>
-  </p>
-
-**Status:** 🔴 Project Stopped / Shut Down  
-**Role:** Junior Game Developer  
-**Target Platform:** 📱 Mobile  
-
----
-
-#### 👥 Team Composition
-
-- 🎮 Designer: 1  
-- 🎨 Artists: 2+  
-- 💻 Programmers: 4  
-
----
-
-#### 🛠️ My Responsibilities
-
-- Developed backend gameplay logic, including **result calculation** and **real-time game state synchronization**
-- Contributed Unity-side implementations such as:
-  - Feature updates for **buff mechanics**
-  - **Smooth screen swipe movement** controls for better player experience
-
----
-
-#### 🎮 Game Description
-
-**Edu King** is a fast-paced mobile trivia game where players engage in real-time quiz battles. The game covers a wide range of topics—from science and math to culture and history—challenging players to think quickly and compete for educational dominance.
-
----
-
-#### 🌟 Tech Highlights
-
-- Real-time multiplayer gameplay  
-- Backend development with **MySQL**  
-- Smooth touch/swipe control mechanics  
-- Educational trivia system
-
----
-
-#### 🔗 Links
-
-- 🌐 [Facebook Page](https://www.facebook.com/edukinggame/about/?_rdr)  
-- ▶️ [YouTube Trailer](https://www.youtube.com/watch?v=JJvglZN9RE8)  
-- 📱 [App Store (iOS)](--) *(link not available)*  
-- 🤖 [Google Play (Android)](--) *(link not available)*
-
-
----
+  
+  #### 👥 Team Composition
+  
+  - 🎮 Designer: 1  
+  - 🎨 Artists: 2+  
+  - 💻 Programmers: 4  
+  
+  ---
+  
+  #### 🛠️ My Responsibilities
+  
+  - Developed backend gameplay logic, including **result calculation** and **real-time game state synchronization**
+  - Contributed Unity-side implementations such as:
+    - Feature updates for **buff mechanics**
+    - **Smooth screen swipe movement** controls for better player experience
+  
+  ---
+  
+  #### 🎮 Game Description
+  
+  **Edu King** is a fast-paced mobile trivia game where players engage in real-time quiz battles. The game covers a wide range of topics—from science and math to culture and history—challenging players to think quickly and compete for educational dominance.
+  
+  ---
+  
+  #### 🌟 Tech Highlights
+  
+  - Real-time multiplayer gameplay  
+  - Backend development with **MySQL**  
+  - Smooth touch/swipe control mechanics  
+  - Educational trivia system
+  
+  ---
+  
+  #### 🔗 Links
+  
+  - 🌐 [Facebook Page](https://www.facebook.com/edukinggame/about/?_rdr)  
+  - ▶️ [YouTube Trailer](https://www.youtube.com/watch?v=JJvglZN9RE8)  
+  - 📱 [App Store (iOS)](--) *(link not available)*  
+  - 🤖 [Google Play (Android)](--) *(link not available)*
+  
+  
+  ---
