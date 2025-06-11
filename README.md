@@ -8,37 +8,53 @@ This Is my portfolio while working on xhinobi
     <img src="https://mechcraft.world/wp-content/uploads/2021/11/Title_MechCraft_01-300x150.png" alt="Mech Craft" width="300"/>
   </p>
 
-  **Status:** 
-  Unknown 🔴
- 
-  **My Role:** 
-  - Unity Developer -> Lead Developer
+**Status:** 🔴 Unknown  
+**Target Platform:** 📱 Mobile  
+**Role:** Unity Developer → Lead Developer  
 
-  **Team Size:**
-  - Artist : 2
-  - Programmer : 2 (Me & Programmer Lead)
+---
 
-  After Publshed:
-  - Artist : 2
-  - Programmer : 5 (3 interns)
-  - Backend Team : 3
+#### 👥 Team Composition
 
-  **My Task:**  
-  Developed the game from scratch with my team lead until the game is published and stabled, then only we start to put more people (full time & intern) and guide them to continue the project.
+**Initial Team:**
+- 🎨 Artists: 2  
+- 💻 Programmers: 2 (Me & Programmer Lead)  
 
-  **Target Platform:**  
-  Mobile
-  
-  **Description:**  
-  A real-time multiplayer arena battling game with NFT integration, deck crafting, diverse skill systems, and unique stats for each mech. Focused on server optimization, multiplayer networking, and gameplay feature implementation.
-  
-  **Highlights:**
-  - Firebase Analytics
-  - SmartFox Server
-  - Unity Addressable
-  - server optimization
-  - NFT Games
-  - AI & Automation
+**Post-Launch Team:**
+- 🎨 Artists: 2  
+- 💻 Programmers: 5 (including 3 interns)  
+- 🔗 Backend Team: 3  
+
+---
+
+#### 🛠️ My Responsibilities
+
+- Developed the game from scratch alongside the team lead.
+- Led the transition from a core dev team to a larger post-launch team.
+- Onboarded and guided new full-time and intern developers.
+- Ensured game stability before expanding the development team.
+
+---
+
+#### 🎮 Game Description
+
+A real-time multiplayer arena battle game with:
+- NFT integration  
+- Deck crafting mechanics  
+- Diverse skill system  
+- Customizable mechs with unique stats  
+- Emphasis on server-side performance and smooth online gameplay
+
+---
+
+#### 🌟 Tech Highlights
+
+- Firebase Analytics  
+- SmartFox Server  
+- Unity Addressables  
+- Multiplayer optimization  
+- NFT integration  
+- AI & automation systems
     
   **Links:**  
   - 🌐 [Official Website](https://mechcraft.world/)  
