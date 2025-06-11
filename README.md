@@ -24,7 +24,7 @@ This Is my portfolio while working on xhinobi
   - Backend Team : 3
 
   **My Task:** 
-  - Developed the game from scratch with my team lead until the game is published and stabled, then only we start to put more people (full time & intern) and guide them to continue the project.
+  Developed the game from scratch with my team lead until the game is published and stabled, then only we start to put more people (full time & intern) and guide them to continue the project.
 
   **Target Platform:** 
   Mobile
