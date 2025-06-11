@@ -12,13 +12,13 @@ This Is my portfolio while working on xhinobi
   Unknown 🔴
  
   **My Role:** 
-  Unity Developer -> Lead Developer
+  - Unity Developer -> Lead Developer
 
   **Team Size:**
   - Artist : 2
   - Programmer : 2 (Me & Programmer Lead)
 
-  After Published:
+  **After Publshed:**
   - Artist : 2
   - Programmer : 5 (3 interns)
   - Backend Team : 3
@@ -27,7 +27,7 @@ This Is my portfolio while working on xhinobi
   Developed the game from scratch with my team lead until the game is published and stabled, then only we start to put more people (full time & intern) and guide them to continue the project.
 
   **Target Platform:** 
-  Mobile
+  - Mobile
   
   **Description:**  
   A real-time multiplayer arena battling game with NFT integration, deck crafting, diverse skill systems, and unique stats for each mech. Focused on server optimization, multiplayer networking, and gameplay feature implementation.
@@ -54,20 +54,20 @@ This Is my portfolio while working on xhinobi
   </p>
 
   **Status:** 
-  Handover To Client🟢
+  - Handover To Client🟢
   
   **Role:** 
-  Senior/Lead Developer
+  - Senior/Lead Developer
 
   **Team Size:**
-  Artist : 1
-  Programmer : 3 
+  - Artist : 1
+  - Programmer : 3 
 
   **My Task:** 
   Developed the entire core system, gameplay which follow all client's requirement wanted it to look like "Subway surfer" & setup & deploy the game server.
   
   **Target Platform:** 
-  Mobile
+  - Mobile
   
   **Description:**  
   A fast-paced endless runner game with NFT integration. Delivered a rapid demo within 1 month. Focused on mobile optimization and UI/UX polish to ensure smooth and engaging gameplay.
